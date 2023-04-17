@@ -1,0 +1,16 @@
+Index: file.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>As I walk trought the valey\r\n\r\nI take a look at my life\r\n\r\nAnd realized that non left \r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/file.txt b/file.txt
+--- a/file.txt	
++++ b/file.txt	
+@@ -2,4 +2,4 @@
+ 
+ I take a look at my life
+ 
+-And realized that non left 
++And realized that nothing left

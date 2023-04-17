@@ -1,0 +1,13 @@
+Index: test.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Hello Pgavel Judakov\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test.txt b/test.txt
+--- a/test.txt	(revision 7406e035f4b31da86ef6f81aff454b2b3fa36d2a)
++++ b/test.txt	(date 1681753975238)
+@@ -1,1 +1,1 @@
+-Hello Pgavel Judakov
++Hello Pavel Judakov
