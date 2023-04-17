@@ -1,0 +1,20 @@
+Index: file.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>As I walk trought the valey\r\n\r\nI take a look at my life\r\n\r\nAnd realized that non left \r\nopopopo
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/file.txt b/file.txt
+--- a/file.txt	(revision e0ad46fcd3ea17122664b2098fc0e975e00ede90)
++++ b/file.txt	(date 1681755709017)
+@@ -1,6 +1,3 @@
+-As I walk trought the valey
++As I walk trought the valley of the shadow of death
+ 
+-I take a look at my life
+-
+-And realized that non left 
+-opopopo
+\ No newline at end of file
++I take a look at my life and realized that non left 
